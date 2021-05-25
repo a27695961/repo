@@ -9,8 +9,8 @@ int I_RH,D_RH,I_Temp,D_Temp,CheckSum;
 code char err[] = "output error";
 code char hum[] = "Humidity = ";
 code char tempp[] = "Temp = ";
-
-
+SSSSS
+ssssss
 void timer_delay20ms()		/* Timer0 delay function */
 {
 	TMOD = 0x21;
